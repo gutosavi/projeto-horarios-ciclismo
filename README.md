@@ -7,9 +7,8 @@ Este projeto foi criado para ajudar organizadores e participantes de provas de m
 
 ## 🔗 Acesse o app online:
 
-👉 [Clique aqui para abrir o app no Streamlit Cloud](https://NOME-DO-SEU-USUÁRIO-NO-STREAMLIT.streamlit.app)
-
-> Substitua o link acima pelo endereço gerado quando você publicar o app na Streamlit Cloud.
+🌐 Acesse o app publicado no Streamlit Cloud:  
+[https://projeto-horarios-ciclismo-3uddtrfm4mt9lbeqplkzek.streamlit.app](https://projeto-horarios-ciclismo-3uddtrfm4mt9lbeqplkzek.streamlit.app)
 
 ---
 
