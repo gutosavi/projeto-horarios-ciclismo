@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 from datetime import datetime, timedelta
@@ -43,6 +42,3 @@ try:
 except Exception as e:
     st.error("❌ Erro ao processar os dados. Verifique os campos.")
     st.exception(e)
-=======
-
->>>>>>> b85ab69f142dbaac5d35dd0de96b0c2f58fb933b
