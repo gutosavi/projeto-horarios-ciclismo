@@ -81,7 +81,7 @@ Aguarde a publicação e acesse o link gerado!
 
 ---
 
-## Contato:
+## Contato
 
 Desenvolvido por Gustavo Savi
 [Linkedin](www.linkedin.com/in/gustavo-savi)
