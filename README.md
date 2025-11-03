@@ -1,18 +1,18 @@
-# 🚴 Estimativa de Horários por Ponto de Apoio - MTB
+# Estimativa de Horários por Ponto de Apoio - MTB
 
 Este projeto foi criado para ajudar organizadores e participantes de provas de mountain bike a estimar os horários de passagem em pontos de apoio (PAs), com base na distância e em diferentes velocidades médias.
 
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red?logo=streamlit)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 
-## 🔗 Acesse o app online:
+## Acesse o app online:
 
-🌐 Acesse o app publicado no Streamlit Cloud:  
+Acesse o app publicado no Streamlit Cloud:  
 [https://projeto-horarios-ciclismo-3uddtrfm4mt9lbeqplkzek.streamlit.app](https://projeto-horarios-ciclismo-3uddtrfm4mt9lbeqplkzek.streamlit.app)
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - Entrada da **distância dos pontos de apoio** (em km).
 - Entrada de diferentes **velocidades médias estimadas** (em km/h).
@@ -21,7 +21,7 @@ Este projeto foi criado para ajudar organizadores e participantes de provas de m
 
 ---
 
-## 🧪 Exemplo de uso
+## Exemplo de uso
 
 - Largada: 08:00
 - Distâncias dos PAs: `10, 17, 23, 36, 49, 54`
@@ -37,7 +37,7 @@ Resultado:
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - [Python 3.10](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
