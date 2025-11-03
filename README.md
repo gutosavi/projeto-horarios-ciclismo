@@ -70,13 +70,16 @@ Escolha o arquivo app.py como script principal.
 
 Aguarde a publicação e acesse o link gerado!
 
-Contato
-Desenvolvido por Gustavo Savi
-gutosavi@hotmail.com
-
+---
 Ideias futuras
  - Permitir salvar/exportar os horários como PDF ou Excel
 
  - Estimativas com base em altimetria (elevação acumulada)
 
  - Personalização de pontos de apoio com nomes e horários limites
+
+---
+
+Contato
+Desenvolvido por Gustavo Savi
+[Linkedin](www.linkedin.com/in/gustavo-savi)
