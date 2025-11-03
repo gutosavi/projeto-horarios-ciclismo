@@ -71,7 +71,8 @@ Escolha o arquivo app.py como script principal.
 Aguarde a publicação e acesse o link gerado!
 
 ---
-Ideias futuras
+
+## Ideias futuras
  - Permitir salvar/exportar os horários como PDF ou Excel
 
  - Estimativas com base em altimetria (elevação acumulada)
@@ -80,6 +81,7 @@ Ideias futuras
 
 ---
 
-Contato
+## Contato:
+
 Desenvolvido por Gustavo Savi
 [Linkedin](www.linkedin.com/in/gustavo-savi)
