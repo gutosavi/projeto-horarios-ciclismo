@@ -45,7 +45,7 @@ Resultado:
 
 ---
 
-## 🚀 Como rodar localmente
+## Como rodar localmente
 
 1. Clone este repositório:
    ```bash
@@ -70,13 +70,13 @@ Escolha o arquivo app.py como script principal.
 
 Aguarde a publicação e acesse o link gerado!
 
-📫 Contato
+Contato
 Desenvolvido por Gustavo Savi
-📧 gustavo.savi@gmail.com
+gutosavi@hotmail.com
 
-🧠 Ideias futuras
-Permitir salvar/exportar os horários como PDF ou Excel
+Ideias futuras
+ - Permitir salvar/exportar os horários como PDF ou Excel
 
-Estimativas com base em altimetria (elevação acumulada)
+ - Estimativas com base em altimetria (elevação acumulada)
 
-Personalização de pontos de apoio com nomes e horários limites
+ - Personalização de pontos de apoio com nomes e horários limites
